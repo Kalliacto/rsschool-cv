@@ -75,9 +75,12 @@ I hope my diligence will bear fruit.
 </html>
 ```
 
+
 ### Education:
 * rs.school-in progress
 * all available free resources on the internet-in progress
+* html-academy
+
 
 ### Languages:
 * Russian - Native
