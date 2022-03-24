@@ -1,0 +1,88 @@
+# Boronina Karina Vyacheslavovna
+
+## Student Frontend Developer
+
+### Contact information:
+
+**Электронная почта:** Gubashina@yandex.ru
+
+**Githab:** Kalliacto
+
+### Резюме
+
+##### I am a mother on maternity leave. I want to learn how to program, and then learn how to program perfectly!
+I hope my diligence will bear fruit.
+===================
+
+### Skills and Proficiency:
+* HTML5, CSS3
+* VS Code
+* Git, GitHub
+
+### Пример кода
+```
+<!doctype html>
+<html>
+<head>
+	<title>Эта сказочная грибная страна</title>
+	<meta charset="UTF-8" />
+	<link rel="icon" href="favicon.ico" />
+	<link href="style.css" type="text/css" rel="stylesheet" />
+	<script src="script.js" type="text/javascript"></script>
+</head>
+<body>
+	<h1>Эта сказочная грибная страна</h1>
+	<div>
+		<img src="kartinka.png" alt="Животное">
+	</div>
+	<div>
+		<p>Существуют удивительные продукты, приготовление которых не отнимает много времени и которые содержат в себе уйму питательных веществ для человеческого организма.</p>
+		<p>Это конечно же грибочки – высокобелковые <em>диетические грибы</em>. Для <strong>выращивания грибов</strong> отводят специализированные предприятиях, одним из которых является и наша компания "Грибная страна"</p>
+	</div>
+	<h3>Кто является потребителем наших грибочков?</h3>
+	<ul>
+		<li>
+			Африканские сурикаты
+			<p><img src="surikaty.jpg" alt="Семейство сурикатов"></p>
+		</li>
+		<li>Дикие львы</li>
+		<li>Бурые медведи</li>
+	</ul>
+	<h3>Гимн и презентационный ролик нашей компании</h3>
+	<div>
+		<audio src="muzichka.mp3" controls></audio>
+	</div>
+	<div>
+		<video src="rolik_chuma.mp4" controls></video>
+	</div>
+	<div>
+		<h3>Напишите нам</h3>
+		<form action="ссылка_на_скрипт_обработки_формы">
+			<p>
+				<label>Имя: <input type="text" name="name" /></label>
+			</p>
+			<p>
+				<label>E-mail: <input type="text" name="email" /></label>
+			</p>
+			<p>
+				<label>Текст: <textarea name="text"></textarea></label>
+			</p>
+			<input type="submit" value="Написать" />
+		</form>
+	</div>
+</body>
+<footer>Тут подвал</footer>
+</html>
+```
+
+
+### Education:
+* rs.school-in progress
+* all available free resources on the internet-in progress
+* html-academy
+
+
+### Languages:
+* Russian - Native
+* Belorussian - Native
+* English-Pre - Intermediate
